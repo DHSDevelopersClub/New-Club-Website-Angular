@@ -7,7 +7,7 @@ import { Component, OnInit } from '@angular/core';
 })
 export class RosterComponent implements OnInit {
 
-  members: [Object] = [
+  members: Object[] = [
     {
       name: 'Max Starr',
       description: 'Is a manss',
