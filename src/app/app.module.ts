@@ -6,11 +6,13 @@ import { HttpModule } from '@angular/http';
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
 import { RosterComponent } from './roster/roster.component';
+import { ProfileCardComponent } from './profile-card/profile-card.component';
 
 @NgModule({
   declarations: [
     AppComponent,
-    RosterComponent
+    RosterComponent,
+    ProfileCardComponent
   ],
   imports: [
     BrowserModule,
