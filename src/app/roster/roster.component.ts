@@ -1,4 +1,5 @@
 import { Component, OnInit } from '@angular/core';
+import { ProfileCardComponent } from "../profile-card/profile-card.component";
 
 @Component({
   selector: 'app-roster',
