@@ -4,7 +4,7 @@ import { ProfileCardComponent } from "../profile-card/profile-card.component";
 @Component({
   selector: 'app-roster',
   templateUrl: './roster.component.html',
-  styleUrls: ['./roster.component.css']
+  styleUrls: ['./roster.component.scss']
 })
 export class RosterComponent implements OnInit {
 

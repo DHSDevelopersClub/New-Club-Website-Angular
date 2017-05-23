@@ -1,0 +1,15 @@
+#profile-card{
+  text-align: center;
+  height: 8em;
+  width: 7em;
+  margin: 1em
+}
+h1{
+  font-size: 1.5em;
+}
+$image-size: 4em;
+img{
+  height: $image-size;
+  width: $image-size;
+  border-radius: $image-size;
+}
