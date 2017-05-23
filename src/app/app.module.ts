@@ -8,12 +8,14 @@ import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
 import { RosterComponent } from './roster/roster.component';
 import { ProfileCardComponent } from './profile-card/profile-card.component';
+import { NavbarComponent } from './navbar/navbar.component';
 
 @NgModule({
   declarations: [
     AppComponent,
     RosterComponent,
-    ProfileCardComponent
+    ProfileCardComponent,
+    NavbarComponent
   ],
   imports: [
     BrowserModule,
