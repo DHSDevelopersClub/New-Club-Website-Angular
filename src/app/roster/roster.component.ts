@@ -2,7 +2,7 @@ import { Component, OnInit } from '@angular/core';
 import { ProfileCardComponent } from "../profile-card/profile-card.component";
 
 @Component({
-  selector: 'app-roster',
+  selector: 'roster',
   templateUrl: './roster.component.html',
   styleUrls: ['./roster.component.scss']
 })
