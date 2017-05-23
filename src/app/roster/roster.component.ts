@@ -7,6 +7,24 @@ import { Component, OnInit } from '@angular/core';
 })
 export class RosterComponent implements OnInit {
 
+  members: [Object] = [
+    {
+      name: 'Max Starr',
+      description: 'Is a manss',
+      imgurl: 'http://placeholder.com/image.png'
+    },
+    {
+      name: 'Leonid Krasnov',
+      description: 'What a lad',
+      imgurl: 'http://placeholder.com/image.png'
+    },
+    {
+      name: 'D-Grubu',
+      description: 'Description',
+      imgurl: 'http://placeholder.com/image.png'
+    }
+  ]
+
   constructor() { }
 
   ngOnInit() {
