@@ -1,5 +1,8 @@
-<md-card id="profile-card">
-  <h1>{{ member.name }}</h1>
-  <p>{{ member.description }}</p>
-  <img [src]="member.imgurl" alt="Profile Picture">
-</md-card>
+<div class="card" id="profile-card">
+  <img class="card-img-top" [src]="member.imgurl" alt="Profile Picture">
+  <div class="card-block">
+    <h1 class="card-title">{{ member.name }}</h1>
+    <p class="card-text">{{ member.description }}</p>
+  </div>
+
+</div>
