@@ -1,6 +1,6 @@
 [![Stories in Ready](https://badge.waffle.io/DHSDevelopersClub/New-Club-Website-Angular.png?label=ready&title=Ready)](https://waffle.io/DHSDevelopersClub/New-Club-Website-Angular?utm_source=badge)
 [![Build Status](https://travis-ci.org/DHSDevelopersClub/New-Club-Website-Angular.svg?branch=master)](https://travis-ci.org/DHSDevelopersClub/New-Club-Website-Angular)
-[Dependancy Status](https://david-dm.org/DHSDevelopersClub/New-Club-Website-Angular.svg)
+[![devDependency Status](https://david-dm.org/DHSDevelopersClub/New-Club-Website-Angular.svg?branch=master)](https://david-dm.org/DHSDevelopersClub/New-Club-Website-Angular#info=devDependencies)
 # ClubSite
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.0.0-rc.0.
