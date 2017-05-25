@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/DHSDevelopersClub/New-Club-Website-Angular.png?label=ready&title=Ready)](https://waffle.io/DHSDevelopersClub/New-Club-Website-Angular?utm_source=badge)
 # ClubSite
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.0.0-rc.0.
